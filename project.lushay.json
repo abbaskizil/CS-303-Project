@@ -1,0 +1,11 @@
+{
+    "name": "project",
+    "top": "top_module",
+    "includedFiles": [
+        "top_module.v",
+        "mastermind.v",
+        "ssd.v",
+        "debouncer.v",
+        "clk_divider.v"
+    ]
+}
